@@ -10,7 +10,7 @@ You can get Classifieds results by providing your own URLs to our service. We ca
 
 #### Python code example
 
-The example below illustrates how you can get HTML of Classifieds page.
+The example below illustrates how you can obtain Craigslist classifieds HTML results.
 
 ```python
 import requests
